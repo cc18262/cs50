@@ -1,4 +1,3 @@
-import newyear
 from django.shortcuts import render
 import datetime
 #datetimeモジュールをインポートして下の処理で使えるようにしている
